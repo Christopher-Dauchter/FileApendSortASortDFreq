@@ -1,0 +1,12 @@
+Char: |  t  | 100  | :Count
+Char: |  n  |  20  | :Count
+Char: |  9  | 104  | :Count
+Char: |  8  |  85  | :Count
+Char: |  7  |  85  | :Count
+Char: |  6  |  94  | :Count
+Char: |  5  |  90  | :Count
+Char: |  4  |  91  | :Count
+Char: |  3  | 101  | :Count
+Char: |  2  |  86  | :Count
+Char: |  1  | 139  | :Count
+Char: |  0  |  80  | :Count
